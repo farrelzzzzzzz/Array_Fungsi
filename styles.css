@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(img/van\ gog.jpg);
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    margin: 100px;
+}
+
+h2 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+select, button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #2833a7;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #215188;
+}
+
+div {
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
